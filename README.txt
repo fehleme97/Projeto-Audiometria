@@ -13,7 +13,8 @@ Pi Pico W da família de processamento RP2040, e com os periféricos embutidos n
 
 •	LEDs RGB: Fornecem feedback visual (verde para resposta correta, vermelho para resposta incorreta).
 
-3.1.1	Funcionamento do Sistema
+
+	Funcionamento do Sistema
 
 Inicialização: 
 
@@ -41,6 +42,7 @@ Finalização do Teste:
 •	Os erros são detalhados no Serial Monitor, mostrando a frequência, intensidade e o buzzer correspondente a cada erro.
 
 •	O usuário pode optar por reiniciar o teste (pressionando o botão A duas vezes) ou sair do programa (pressionando o botão B duas vezes).
+
 
 
 	Detalhes Técnicos
